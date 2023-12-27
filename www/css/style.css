@@ -1,0 +1,30 @@
+h1 {
+    font-size: 4rem;
+    color: gray;
+    text-decoration: underline blue;
+}
+
+a {
+    font-size: 4rem;
+    color: black;
+    background-color: white;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+a:visited {
+    color: black;
+}
