@@ -24,7 +24,8 @@ ui <- fluidPage(
     tags$a(
         "Github Repo",
         href = "https://github.com/exkuretrol/minimal-shinyapps-io-deployment",
-        target = "_blank"
+        target = "_blank",
+        class = "link"
     )
 )
 

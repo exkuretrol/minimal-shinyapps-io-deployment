@@ -4,7 +4,7 @@ h1 {
     text-decoration: underline blue;
 }
 
-a {
+a.link {
     font-size: 4rem;
     color: black;
     background-color: white;
